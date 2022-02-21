@@ -7,7 +7,7 @@ package bank;
 
 /**
  *
- * @author spars
+ * @author tapash
  */
 public class BankManagementSystem {
 
